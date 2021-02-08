@@ -1,0 +1,23 @@
+# tex
+*.aux
+*.pdf
+*.log
+*.lbr
+*.ref
+*.bak
+*.bbl
+*.bcf
+*.blg
+*.out
+*.toc
+*.run.xml
+*.synctex.gz
+*.lof
+*.lot
+*.init
+
+
+# notebooks
+.ipynb_checkpoints
+venv/
+__pycache__/
